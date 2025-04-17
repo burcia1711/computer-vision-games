@@ -1,7 +1,10 @@
 # Computer Vision Games with Pygame
 
 Welcome to my learning repository!  
-This repo is for building simple computer vision-based games using **Pygame**. Each folder demonstrates different features, mechanics, and interactions commonly used in game development and vision-driven applications.
+
+This repo is for building simple computer vision-based games using **Pygame**, gradually moving towards **OpenCV**-powered interactions. 
+
+Each folder demonstrates different features, mechanics, and interactions commonly used in game development and vision-driven applications.
 
 ## 📂 Project Structure
 
@@ -15,7 +18,7 @@ This repo is for building simple computer vision-based games using **Pygame**. E
 - **music/** — Adding background music, sound effects, and audio feedback to the games.
 - **text/** — Displaying text elements (such as scores, messages, and UI) inside games.
 
-## 🚀 Features
+## 🚀 Current Features
 
 - 🎮 Game mechanics built from scratch with Pygame.
 - 🖼️ Integration of images.
@@ -27,22 +30,32 @@ This repo is for building simple computer vision-based games using **Pygame**. E
 
 ## 📚 Purpose
 
-This repository is part of my learning journey into **computer vision**, **game mechanics**, and **interactive applications**.  
-It covers foundational topics before moving into more advanced **vision-based gameplay** where **camera inputs** and **object tracking** can be introduced.
+This repository is part of my personal learning journey on:
+
+- **Computer Vision** 🌟
+- **Interactive Games** 🎮
+- **Camera-Based Applications** 📷
+- **Python Game Development** 🐍
+
+I'm starting from the basics of Pygame and moving toward integrating OpenCV for more **dynamic, vision-driven gameplay**.
 
 ## 🔧 Requirements
 
 - Python 3.x
 - [Pygame](https://www.pygame.org/)
-  
-Install with:
+- [OpenCV (cv2)](https://opencv.org/)  
+
+Install necessary packages:
 
 ```bash
-pip install pygame
+pip install pygame opencv-python
 ```
 
-## 🌟 Future Plans
+## 🌟 Future Goals
 
-- Adding camera-based interaction (e.g., control a character with hand gestures).
-- Integrating simple computer vision techniques using **OpenCV**.
-- Expanding game mechanics with AI components.
+- Full hand gesture control for mini-games
+- Object tracking as a controller input
+- Game mechanics based purely on computer vision without keyboard/mouse
+- Create a simple mini-game fully controlled by your webcam 🎮
+
+# 🎯 Stay tuned as I continue building!
