@@ -13,8 +13,10 @@ Each folder demonstrates different features, mechanics, and interactions commonl
 - **collision_detection/** — Detecting collisions between objects, boundaries, and players.
 - **game_border/** — Setting up and managing game boundaries.
 - **hand model/** - Hand tracking and landmark.
-  <video src="hand.mov" autoplay loop muted playsinline width="600"></video>
-  <video src="landmarkhand.mov" autoplay loop muted playsinline width="600"></video>
+
+https://github.com/user-attachments/assets/18320c0b-cdc0-49d5-9b53-9bd9e9c585ec 
+
+https://github.com/user-attachments/assets/04641d80-7ef9-44b5-86bb-8b4c239b008f
 
 - **images/** — Handling images (sprites, backgrounds, icons, etc.) throughout the games.
 - **keyboard/** — Implementing keyboard input for player controls and actions.
@@ -22,6 +24,8 @@ Each folder demonstrates different features, mechanics, and interactions commonl
 - **music/** — Adding background music, sound effects, and audio feedback to the games.
 - **read & show/** - Image reading, showing and other basic operations using OpenCV.
 - **text/** — Displaying text elements (such as scores, messages, and UI) inside games.
+- **webcam/** - Accessing webcam.
+- **webcamAsGameWindow/** - Using webcam as the game window.
 
 ## 🚀 Current Features
 
