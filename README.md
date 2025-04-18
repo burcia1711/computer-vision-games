@@ -6,7 +6,7 @@ This repo is for building simple computer vision-based games using **Pygame**, g
 
 Each folder demonstrates different features, mechanics, and interactions commonly used in game development and vision-driven applications.
 
-## 📂 Project Structure
+## 📂 Repo Structure
 
 - **background/** — Handling game backgrounds, loading and displaying scenes.
 - **basic/** — Basic game screen, loops, and fundamental mechanics.
@@ -16,6 +16,7 @@ Each folder demonstrates different features, mechanics, and interactions commonl
 - **keyboard/** — Implementing keyboard input for player controls and actions.
 - **mouse/** — Implementing mouse input and getting coordinates.
 - **music/** — Adding background music, sound effects, and audio feedback to the games.
+- **read & show/** - Image reading, showing and other basic operations using OpenCV.
 - **text/** — Displaying text elements (such as scores, messages, and UI) inside games.
 
 ## 🚀 Current Features
