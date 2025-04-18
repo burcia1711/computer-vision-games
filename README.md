@@ -12,6 +12,10 @@ Each folder demonstrates different features, mechanics, and interactions commonl
 - **basic/** — Basic game screen, loops, and fundamental mechanics.
 - **collision_detection/** — Detecting collisions between objects, boundaries, and players.
 - **game_border/** — Setting up and managing game boundaries.
+- **hand model/** - Hand tracking and landmark.
+  <video src="hand.mov" autoplay loop muted playsinline width="600"></video>
+  <video src="landmarkhand.mov" autoplay loop muted playsinline width="600"></video>
+
 - **images/** — Handling images (sprites, backgrounds, icons, etc.) throughout the games.
 - **keyboard/** — Implementing keyboard input for player controls and actions.
 - **mouse/** — Implementing mouse input and getting coordinates.
