@@ -59,6 +59,11 @@ Install necessary packages:
 ```bash
 pip install pygame opencv-python
 ```
+## 🕯️ Catching Candles Game :)  
+(under **firstGame/** folder)
+A simple game where a candle randomly appears on the screen, and the player uses their index finger landmark (via webcam hand tracking) to catch it. Each time you collide with the candle, it jumps to a new random position. Fun and minimal! And Victorian :)
+
+https://github.com/user-attachments/assets/f54299af-b0bd-46f6-9780-2d2c87e8b803
 
 ## 🌟 Future Goals
 
